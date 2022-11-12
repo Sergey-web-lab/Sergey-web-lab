@@ -1,4 +1,7 @@
-![Header](https://github.com/Sergey-web-lab/Sergey-web-lab/blob/main/assets/main_img.gif)
+<!-- ![Header](assets/main_img.gif) -->
+<div>
+    <img src="assets/main_img.gif" width=300>
+</div>
 
 ## Hello! My name is Sergey and I'm a web developer. 
 
