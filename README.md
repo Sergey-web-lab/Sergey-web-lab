@@ -20,7 +20,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
-![gulp](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp)
 <br>
 
 ### You can *write* to me
